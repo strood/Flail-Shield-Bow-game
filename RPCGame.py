@@ -107,7 +107,7 @@ def battle(playerWep, compWep, name):
         else:
             print("That is okay, I'd run home crying too...bye!")        
 
-#Define the main program
+#Define the main program runnint
 def main():
     name = start()
     playerWep, compWep = choose(name)
